@@ -1,1 +1,9 @@
-# nestjs-boilerplate
+# .env sample
+
+```text 
+DATASOURCE_HOST=localhost
+DATASOURCE_PORT=3306
+DATASOURCE_USER=root
+DATASOURCE_PWD=
+DATASOURCE_SCHEMA=es_stat
+```
